@@ -1,0 +1,5 @@
+{
+  "name": "Linkely",
+  "description": "A social media application where users can create, view, and interact with posts. Features AI-powered post idea generation using the Gemini API.",
+  "requestFramePermissions": []
+}
