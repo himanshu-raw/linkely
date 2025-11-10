@@ -10,22 +10,22 @@
 ---
 
 ## 🚀 Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
-- [Folder Structure](#folder-structure)
-- [Getting Started](#getting-started)
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [System Architecture](#-system-architecture)
+- [Folder Structure](#-folder-structure)
+- [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
   - [Running the App](#running-the-app)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [API Endpoints](#-api-endpoints)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
@@ -62,4 +62,6 @@ Built using the **MERN stack (MongoDB, Express, React, Node.js)** and deployed o
 | **Version Control** | Git + GitHub |
 
 ---
+
+## 🏗️ System Architecture
 
