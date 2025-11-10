@@ -63,5 +63,5 @@ Built using the **MERN stack (MongoDB, Express, React, Node.js)** and deployed o
 
 ---
 
-## 🏗️ System Architecture
+
 
